@@ -1,4 +1,0 @@
-aiogram==3.11.0
-pyrogram==2.0.106
-python-dotenv==1.0.0
-aiofiles==23.2.1
